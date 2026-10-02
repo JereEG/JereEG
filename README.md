@@ -1,4 +1,4 @@
-### 👨‍💻 Jeremias Gonzalez | Software Developer & Engineer
+### 👨‍💻 Jeremias Gonzalez | Software Engineer
 
 <div align="left">
   <a href="https://www.linkedin.com/in/jereeg"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"></a>
